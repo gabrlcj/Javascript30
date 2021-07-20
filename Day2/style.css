@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 2rem;
+  display: flex;
+  gap: 10rem;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  background: url('https://i.pinimg.com/originals/6d/c1/17/6dc11726798611a9e2fa758a02188bf9.gif') no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+  text-shadow: 2px 2px 0 #121212;
+  background: #efefef65;
+  color: #3e2514;
+  margin-top: 3rem;
+}
+
+.clock {
+  background: url('https://i.pinimg.com/originals/1e/b4/dd/1eb4ddeba46a7a4bcec983965ff9fc31.jpg');
+  background-size: 106% 105%;
+  background-position-x: center;
+  background-position-y: center;
+  width: 30rem;
+  height: 30rem;
+  border: 20px solid #3e2514;
+  border-radius: 50%;
+  margin: 0 auto;
+  position: relative;
+  padding: 2rem;
+  box-shadow:
+    0 0 0 4px rgba(0, 0, 0, .1),
+    inset 0 0 0 3px #efefef,
+    inset 0 0 10px #121212,
+    0 0 10px rgba(0, 0, 0, .2);
+}
+
+.clock-face {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform: translateY(-3px);
+}
+
+.hand {
+  width: 50%;
+  height: 6px;
+  background: #121212;
+  position: absolute;
+  top: 50%;
+  transform-origin: 100%;
+  transform: rotate(90deg);
+}
+
+.hour-hand {
+  height: 10px;
+  width: 40%;
+  position: absolute;
+  left: 10%;
+}
+
+.min-hand {
+  height: 8px;
+  width: 45%;
+  position: absolute;
+  left: 5%;
+}
+
+.seconds-hand {
+  height: 4px;
+  text-align: center;
+}
