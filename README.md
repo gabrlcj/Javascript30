@@ -12,4 +12,4 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
 - **Day1**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day1">Drum player with keyboard</a>
 - **Day2**
-  - <a href="">Analog clock</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day2">Analog clock</a>
