@@ -1,4 +1,4 @@
-<h1 align="center"><img src=".github/../../.github/Day1-img/Title.svg"></h1>
+<h1 align="center"><img src=".github/../../.github/Day1-img/title.svg"></h1>
 
 ## Sobre
 Uma pequena aplicação utilizando **JS** para transformar o seu teclado em uma bateria e reproduzir sons da mesma.
