@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/title-main-readme.svg" />
+  <img src=".github/main-readme.svg" />
 </h1>
 
 <div align="center">
