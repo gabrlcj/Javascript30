@@ -9,11 +9,8 @@ Utilizando `addEventListener()` e `data-type do HTML` para captar o som e o mome
 <img src=".github/../../.github/Day1-img/day1.png" />
 
 ## Autor
-
 <img src="https://unavatar.now.sh/github/gabrlcj" width="175" />
 
-## Gabriel Bittencourt Penteado
+## [Gabriel Bittencourt Penteado](https://www.linkedin.com/in/gabriel-bittencourt-penteado/)
 
-#### Feito com 🤎 por Gabriel B. Penteado. Entre em contato! 👋🏽
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bittencourt-penteado/)](https://www.linkedin.com/in/gabriel-bittencourt-penteado/)
+#### Feito com 🤎 por *Gabriel Bittencourt Penteado*. Entre em contato! 👋🏽
