@@ -1,4 +1,6 @@
-<h1 align="center">#JavaScript30 👨🏽‍💻</h1>
+<h1 align="center">
+  <img src=".github/title-main-readme.svg" />
+</h1>
 
 <div align="center">
   <a href="https://storyset.com/"><img src=".github/Innovation.gif" /></a>
