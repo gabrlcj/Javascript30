@@ -17,3 +17,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day2">Analog clock</a>
 - **Day3**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day3">CSS variables with JS</a>
+- **Day4**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day4">Array exercises</a>
