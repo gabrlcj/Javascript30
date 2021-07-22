@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/../../.github/Day3-img/title-day4.svg">
+  <img src=".github/../../.github/Day4-img/title-day4.svg">
 </div>
 
 ## Sobre
@@ -8,7 +8,7 @@ Hoje tivemos alguns exercícios sobre `.reduce(), .map(), .sort() e .filter()` p
 Uma boa base de exercícios para a prática destes métodos e para fixar eles.
 
 ## Imagem
-<img src=".github/../../.github/Day3-img/day4.png">
+<img src=".github/../../.github/Day4-img/day4.png">
 
 ## Autor
 <img src="https://unavatar.now.sh/github/gabrlcj" width="175" />
