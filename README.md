@@ -21,3 +21,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day4">Array exercises</a>
 - **Day 5**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day5">Flex Panels</a>
+- **Day 6**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day6">AJAX - Cities of EUA</a>
