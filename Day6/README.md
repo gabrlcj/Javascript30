@@ -8,7 +8,9 @@ Aqui utilizamos um objeto AJAX para fazer o display de cidades e estados dos Est
 O intuito dessa aplicação foi poder pegar esses dados e deixar de uma forma dinâmica com a procura no input deixado em tela para a aparição das funções utilizando um `.map()` para percorrer esses arrays.
 
 ## Imagem
-<img src=".github/../../.github/Day6-img/day6.png">
+<div align="center">
+  <img src=".github/../../.github/Day6-img/day6.gif" width="800">
+</div>
 
 ## Autor
 <img src="https://unavatar.now.sh/github/gabrlcj" width="175" />
