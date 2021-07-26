@@ -8,7 +8,9 @@ Aplicação feita para desenvolver um relógio analógico em **JS** utilizando o
 Utilizando função construtora `const now = new Date()`.
 
 ## Imagem
-<img src=".github/../../.github/Day2-img/day2.gif" width="800">
+<div align="center">
+  <img src=".github/../../.github/Day2-img/day2.gif" width="800">
+</div>
 
 ## Autor
 <img src="https://unavatar.now.sh/github/gabrlcj" width="175" />
