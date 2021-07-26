@@ -1,0 +1,12 @@
+*, body {
+  margin: 0;
+  overflow: hidden;
+}
+
+h1:read-only {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  user-select: none;
+  font: 700 2rem sans-serif;
+}
