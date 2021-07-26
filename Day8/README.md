@@ -8,7 +8,7 @@ Neste desafio criamos uma tela de pintura, canvas, utilizando o Javascript. Um p
 Aqui usamos a propriedade `window` para capturar a largura e altura do monitor do usuário, também temos vários `addEventListener()` para registrar o movimento do mouse, se o mesmo está clicado ou não e se ele esta fora da janela ou não. Assim conseguindo fazer os seus desenhos na tela.
 
 ## Imagem
-<img src=".github/../../.github/Day8-img/day8.gif" width="800">
+<img src=".github/../../.github/Day8-img/day8.gif" width="1000">
 
 ## Autor
 <img src="https://unavatar.now.sh/github/gabrlcj" width="175" />
