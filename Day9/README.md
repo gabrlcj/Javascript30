@@ -6,7 +6,7 @@
 No desafio de hoje utilizamos JS para fazer uma lista de checkboxes onde você pode pressionar a tecla *SHIFT* para fazer várias marcações juntas.
 
 Utilizamos a seguinte função:
-```
+```javascript
 function handleCheck(e) {
   // Checar se a tecla shift esta pressionada
   // E checar se eles estão checando os inputs
