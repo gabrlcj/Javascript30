@@ -27,3 +27,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day7">Array exercises 2</a>
 - **Day 8**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day8">HTML5 Canvas</a>
+- **Day 9**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day9">Check multiple checkboxes</a>
