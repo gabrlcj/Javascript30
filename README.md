@@ -31,3 +31,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day9">Check multiple checkboxes</a>
 - **Day 10**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day10">HTML custom video player</a>
+- **Day 11**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day11">Key detection (Konami Code)</a>
