@@ -56,7 +56,7 @@ console.log(team5)
 const person = {
   name: 'Wes Bos',
   age: 80
-};
+}
 
 // and think we make a copy:
 // const captain = person

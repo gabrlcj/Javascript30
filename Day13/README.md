@@ -16,6 +16,17 @@ team3[2] = 'Jhin'
 console.log(team3)
 
 // Assim qualquer alteração feita nessa variavel não afetara o array original
+
+// Com Objetos
+const person = {
+  name: 'Wes Bos',
+  age: 80
+}
+
+// E também podemos utilizar esse mesmo método para os objetos
+const captain3 = {...person}
+captain3.number = 100
+console.log(captain3)
 ```
 
 ## Imagem
