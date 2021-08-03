@@ -37,3 +37,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day12">Slide in on scroll</a>
 - **Day 13**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day13">JS reference VS copy</a>
+- **Day 14**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day14">Local storage and event delegation</a>
