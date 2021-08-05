@@ -43,3 +43,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day15">Mouse shadow</a>
 - **Day 16**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day16">Sort without articles</a>
+- **Day 17**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day17">Adding up time with reduce</a>
