@@ -3,7 +3,7 @@
 </div>
 
 ## Sobre
-**ESTÁ FUNÇÃO AINDA ESTA EM DESENVOLVIMENTO, PARA SABER MAIS AQUI TEMOS UM LINK DA [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis)**
+**ESTÁ FUNÇÃO AINDA ESTA EM DESENVOLVIMENTO, PARA SABER MAIS AQUI TEMOS UM LINK DA [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis)** <br/>
 Neste projeto utilizamos o `SpeechSynthesisUtterance()` que seria um leitor de palavras imbutido no Javascript com diversas linguagens do mundo. (No sistema Windows, que é o que eu utilizo, não tive sucesso em obter outras linguages apenas a padrão pt-BR da Microsoft, a zh-CN e zh-HK do Google porém as do Linux funcionam normalmente).
 
 Um pouco do código utilizado nesse projeto:
