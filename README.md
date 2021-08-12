@@ -53,3 +53,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day20">Speech synthesis</a>
 - **Day 21**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day21">Sticky nav</a>
+- **Day 22**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day22">Follow along nav</a>
