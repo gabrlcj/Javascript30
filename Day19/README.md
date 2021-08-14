@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/../../.github/Day19-img/title-day19.svg">
+  <img src=".github/../../.github/Day19-img/title-day19b.svg">
 </div>
 
 ## Sobre
