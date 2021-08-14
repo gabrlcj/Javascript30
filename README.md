@@ -48,10 +48,10 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
 - **Day 18**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day18">Speech detection</a>
 - **Day 19**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day19">Follow along navigation</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day19">Follow along links</a>
 - **Day 20**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day20">Speech synthesis</a>
 - **Day 21**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day21">Sticky nav</a>
 - **Day 22**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day22">Follow along nav</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day22">Follow along dropdown</a>
