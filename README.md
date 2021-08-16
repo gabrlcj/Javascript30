@@ -59,3 +59,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day23">Click and drag</a>
 - **Day 24**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day24">Video speed controller</a>
+- **Day 25**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day25">Countdown timer</a>
