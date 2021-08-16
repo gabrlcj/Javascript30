@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/../../.github/Day24-img/title-day24.svg">
+  <img src=".github/../../.github/Day25-img/title-day25.svg">
 </div>
 
 ## Sobre
@@ -29,7 +29,7 @@ function timer(seconds) {
 
 ## Imagem
 <div align="center">
-  <img src=".github/../../.github/Day24-img/day24.gif" width="800">
+  <img src=".github/../../.github/Day25-img/day25.gif" width="800">
 </div>
 
 ## Autor
