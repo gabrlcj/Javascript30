@@ -12,23 +12,23 @@ Esse é um desafio proposto por [WesBos](https://github.com/wesbos) que o chamou
 Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, tendo uma README especifico para cada um, dizendo sobre o projeto.
 
 - **Day 1**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day1">Drum player with keyboard</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day01">Drum player with keyboard</a>
 - **Day 2**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day2">Analog clock</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day02">Analog clock</a>
 - **Day 3**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day3">CSS variables with JS</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day03">CSS variables with JS</a>
 - **Day 4**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day4">Array exercises</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day04">Array exercises</a>
 - **Day 5**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day5">Flex panels</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day05">Flex panels</a>
 - **Day 6**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day6">AJAX - Cities of EUA</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day06">AJAX - Cities of EUA</a>
 - **Day 7**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day7">Array exercises 2</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day07">Array exercises 2</a>
 - **Day 8**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day8">HTML5 Canvas</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day08">HTML5 Canvas</a>
 - **Day 9**
-  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day9">Check multiple checkboxes</a>
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day09">Check multiple checkboxes</a>
 - **Day 10**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day10">HTML custom video player</a>
 - **Day 11**
