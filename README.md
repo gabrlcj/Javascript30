@@ -11,6 +11,8 @@ Esse é um desafio proposto por [WesBos](https://github.com/wesbos) que o chamou
 
 Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, tendo uma README especifico para cada um, dizendo sobre o projeto.
 
+**OBS:** *Acabei realizando apenas 26 projetos pois as outras 4 aulas eram mais soobre conceitos sobre o Javascript*
+
 - **Day 1**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day01">Drum player with keyboard</a>
 - **Day 2**
@@ -61,3 +63,5 @@ Neste repositório irei postar cada desafio durante o decorrer desses 30 dias, t
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day24">Video speed controller</a>
 - **Day 25**
   - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day25">Countdown timer</a>
+- **Day 26**
+  - <a href="https://github.com/gabrlcj/Javascript30/tree/main/Day26">Whack a mole</a>
